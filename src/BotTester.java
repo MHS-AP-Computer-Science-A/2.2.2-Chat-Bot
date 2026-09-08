@@ -7,7 +7,7 @@ public class BotTester
         System.out.println("Enter your name: ");
         String name = input.nextLine();
         
-        //Put your code here
+        //Put your code below
 
         System.out.println("What's the weather like? ");
 
